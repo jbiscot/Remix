@@ -1,0 +1,101 @@
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\ApplicationInsights.config
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\csc.exe
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\vbc.exe
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\prjRemaxWebsite.dll.config
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\prjRemaxWebsite.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\prjRemaxWebsite.pdb
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.dll
+C:\Users\Jbiscot\Desktop\FinalProjectInternetProgrammingII\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.pdb
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\ApplicationInsights.config
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\csc.exe
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\vbc.exe
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\prjRemaxWebsite.dll.config
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\prjRemaxWebsite.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\prjRemaxWebsite.pdb
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.csprojAssemblyReference.cache
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.csproj.CopyComplete
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.dll
+C:\Users\diogo\Documents\Projects\prjRemaxWebsite (2)\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.pdb
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\ApplicationInsights.config
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\csc.exe
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\vbc.exe
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\prjRemaxWebsite.dll.config
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\prjRemaxWebsite.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\prjRemaxWebsite.pdb
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.dll
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.pdb
+C:\Users\Jbiscot\Desktop\prjRemaxWebsite\prjRemaxWebsite\obj\Debug\prjRemaxWebsite.csprojResolveAssemblyReference.cache
